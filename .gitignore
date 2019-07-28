@@ -13,3 +13,5 @@
 
 # Private content of sample json
 sample_json.txt
+
+.DS_Store
